@@ -32,5 +32,4 @@ attached as a video as limit is exceeded
   
 
 # Author(s) and License(s)
-
-[See [Github Licensing a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) and choose the one that applies to your project.]
+This project is hereby licensed by MIT license 
