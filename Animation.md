@@ -26,7 +26,7 @@ These are an example of the key functions which work together to create an inter
 
 #### Artifact Demo
 
-[Insert graphical outputs here to show your design outcomes. Can be image or short video]
+
 
 #### Credits
 - [pinterest images]
