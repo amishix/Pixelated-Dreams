@@ -12,18 +12,17 @@ Disney's advertisement promoting their adventure parks featured a variety of cha
 #### Design Criteria and Outcome
  Usability Criteria
 User Experience (UX): Creating an intuitive and satisfying user experience.
-Maintenance: Ease of maintenance and repair over the product’s lifecycle.
+Maintenance: Ease of maintenance over the use of the product.
 Aesthetic Criteria
 Appearance: Visual appeal, including color, shape, and style.
-Ergonomics: How the design fits and feels for users.
+Ergonomics: How the design fits and feels for users subject to an age group rated U.
 Functional Criteria
 Purpose and Performance: What the design needs to do, including specific functions and performance standards.
-Reliability and Durability: How long the product should last and under what conditions.
 Ease of Use: How user-friendly the design needs to be.
 
 
 #### Artifact Demo
-
+attached as a video as limit is exceeded 
 
 #### Credits
 -  mouse pressed and released:
