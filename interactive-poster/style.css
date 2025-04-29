@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'cursive';
+  text-align: center;
+  background: rgb(108, 5, 146);
+}
+
+canvas-container {
+  display: block;
+  justify-content: center;
+  align-items: center;
+  height: 400vh;
+  margin-bottom: 100px;
+}
+
+h1 {
+  color: rgb(235, 217, 22);
+  font-family: "Lucida Sans", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+p {
+  font-family:'Lucida Sans';
+  color: rgb(241, 240, 243);
+  font-size: 0.6em;
+}
+
+
+button {
+  background-color: #bb4773;
+  border: none;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: pointer;
+  margin: 10px;
+  font-size: 0.5em;
+  font-family: monospace;
+}
