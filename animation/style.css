@@ -1,0 +1,28 @@
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+
+  /*customized CSS */
+  /* general slider styling */
+  .stylingSlider {
+    -webkit-appearance: none; /* Override default CSS styles */
+    width: 130px;
+    height: 10px;
+    background-color: #5500cc;
+    outline: none; /* Remove the outline */
+    opacity: 1;
+  }
+
+
+  .stylingSlider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 10px; /* Handle width */
+    height: 20px; /* Handle height */
+    background: #fff200; /* Handle color */
+    cursor: pointer; /* Cursor on hover */
+  }
